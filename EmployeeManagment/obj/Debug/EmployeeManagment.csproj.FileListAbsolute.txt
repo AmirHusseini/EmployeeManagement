@@ -1,0 +1,12 @@
+D:\Github\C#\EmployeeManagment\EmployeeManagment\bin\Debug\EmployeeManagment.exe.config
+D:\Github\C#\EmployeeManagment\EmployeeManagment\bin\Debug\EmployeeManagment.exe
+D:\Github\C#\EmployeeManagment\EmployeeManagment\bin\Debug\EmployeeManagment.pdb
+D:\Github\C#\EmployeeManagment\EmployeeManagment\obj\Debug\EmployeeManagment.employeeForm.resources
+D:\Github\C#\EmployeeManagment\EmployeeManagment\obj\Debug\EmployeeManagment.Properties.Resources.resources
+D:\Github\C#\EmployeeManagment\EmployeeManagment\obj\Debug\EmployeeManagment.csproj.GenerateResource.cache
+D:\Github\C#\EmployeeManagment\EmployeeManagment\obj\Debug\EmployeeManagment.csproj.CoreCompileInputs.cache
+D:\Github\C#\EmployeeManagment\EmployeeManagment\obj\Debug\EmployeeManagment.exe
+D:\Github\C#\EmployeeManagment\EmployeeManagment\obj\Debug\EmployeeManagment.pdb
+D:\Github\C#\EmployeeManagment\EmployeeManagment\obj\Debug\EmployeeManagment.Form2.resources
+D:\Github\C#\EmployeeManagment\EmployeeManagment\obj\Debug\EmployeeManagment.csproj.AssemblyReference.cache
+D:\Github\C#\EmployeeManagment\EmployeeManagment\obj\Debug\EmployeeManagment.csproj.SuggestedBindingRedirects.cache
